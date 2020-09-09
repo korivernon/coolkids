@@ -6,9 +6,9 @@
 #REQUIRED
 org_name: CoolKids.org
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  A team of professionals supporting kids and seniors in need.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  Cool Kids Fund Inc. is a 501(c)(3) non-profit organization providing support to kids and seniors in need. Our primary goal is to advance learning beyond grade level for the students we support and create a brighter future for the next generation. Our secondary goal is to provide support to seniors affected by Alzheimer’s Disease. Our board volunteers their time so 100% of all tax-deductible donations collected go directly to those in need. Visit the IRS to view our non-profit status.
 
 #OPTIONAL
 #Non US-address support coming soon
@@ -23,9 +23,9 @@ org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: coolkidsfund
+org_facebook_username: CoolKidsFund
+org_instagram_username: coolkidsfund
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
